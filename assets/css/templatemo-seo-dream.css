@@ -1407,7 +1407,7 @@ Portfolio
   overflow: hidden;
 }
 
-.portfolio-item .thumb .hover-content {
+/* .portfolio-item .thumb .hover-content {
   border-radius: 50px;
   overflow: hidden;
   position: absolute;
@@ -1420,7 +1420,7 @@ Portfolio
   opacity: 0;
   visibility: hidden;
   transition: all .5s;
-}
+} */
 
 .portfolio-item .thumb .hover-content .inner-content {
   position: absolute;
